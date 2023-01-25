@@ -35,16 +35,47 @@ ul ul p{
 }
 
 .carousel-control-prev{
-  background-color: none;
   border: none;
-  background-color:transparent;
 }
 
 .carousel-control-next{
-  background-color: none;
   border: none;
-  background-color:transparent;
 }
+
+#gallery {width:760px; margin:0 auto; padding:0;}
+#gallery li {display:none;}
+#gallery li:first-child {display:block;}
+#gallery li img {width:600px;}
+#btn_gallery {text-align:center;}
+#btn_gallery a.off {cursor:default; opacity:0.5;}
+
+#gallery1 {width:760px; margin:0 auto; padding:0;}
+#gallery1 li {display:none;}
+#gallery1 li:first-child {display:block;}
+#gallery1 li img {width:600px;}
+#btn_gallery {text-align:center;}
+#btn_gallery a.off {cursor:default; opacity:0.5;}
+
+#gallery2 {width:760px; margin:0 auto; padding:0;}
+#gallery2 li {display:none;}
+#gallery2 li:first-child {display:block;}
+#gallery2 li img {width:600px;}
+#btn_gallery {text-align:center;}
+#btn_gallery a.off {cursor:default; opacity:0.5;}
+
+#gallery3 {width:760px; margin:0 auto; padding:0;}
+#gallery3 li {display:none;}
+#gallery3 li:first-child {display:block;}
+#gallery3 li img {width:600px;}
+#btn_gallery {text-align:center;}
+#btn_gallery a.off {cursor:default; opacity:0.5;}
+
+#gallery4 {width:760px; margin:0 auto; padding:0;}
+#gallery4 li {display:none;}
+#gallery4 li:first-child {display:block;}
+#gallery4 li img {width:600px;}
+#btn_gallery {text-align:center;}
+#btn_gallery a.off {cursor:default; opacity:0.5;}
 
 /*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
